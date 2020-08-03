@@ -1,9 +1,8 @@
 # Todo-app-MVVM-with-RoomDatabase-and-kotlin-Coroutines
 
- MVVM WITH ROOM DATABASE AND KOTLIN COROUTINES
-   SIMPLE TODO APP
+   <h1>SIMPLE Note APP</h1>
    
-   This is a simple todo app based on mvvm with room database and kotlin coroutines , take input of name and age of a person then store into room database and after fetch data from the database and shows into recyclerview..
+  we will make a Note Application through Mvvm with Room Database and Kotlin Coroutines , The description of this project is first we will store data into room database and then shows into RecyclerView , Hope you will enjoy and learn something new from the video series :)
    
    <p align="center">
    <img src="app/src/main/res/drawable/Screenshot 2020-08-02 at 5.48.14 PM.png"/>
